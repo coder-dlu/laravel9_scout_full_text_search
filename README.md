@@ -1,0 +1,1 @@
+# laravel9_scout_full_text_search
